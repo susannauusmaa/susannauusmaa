@@ -4,8 +4,9 @@
 
 I enjoy turning ambitious ideas into software that's clear to build, pleasant to use, and dependable in the details.
 
-At QBRI Digital, I collaborate with Alejandro De La Parra Solomon and our team across mobile engineering and digital infrastructure. Our shared project areas include:
+At QBRI Digital, I collaborate with Alejandro De La Parra Solomon and our team across website development, mobile engineering, and digital infrastructure. Our shared project areas include:
 
+- **Websites & design**: WordPress development with Elementor, responsive page building, visual design, and launch checks
 - **Android & Kotlin**: Jetpack Compose, app architecture, and polished mobile experiences
 - **eFTI & eIDAS**: compliance-aware logistics data and validation
 - **Interoperability & trust**: canonical JSON, data integrity, decentralized identity, and verifiable credentials
